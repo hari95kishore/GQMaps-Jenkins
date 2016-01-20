@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [gq]">
+  <test name="run_suite(failed)">
+    <classes>
+      <class name="finGQMaps.GQM_2">
+        <methods>
+          <include name="loginInvalidPass"/>
+        </methods>
+      </class> <!-- finGQMaps.GQM_2 -->
+      <class name="finGQMaps.GQM_1">
+        <methods>
+          <include name="deleteCookies"/>
+          <include name="loginInvalidUser"/>
+        </methods>
+      </class> <!-- finGQMaps.GQM_1 -->
+    </classes>
+  </test> <!-- run_suite(failed) -->
+</suite> <!-- Failed suite [gq] -->

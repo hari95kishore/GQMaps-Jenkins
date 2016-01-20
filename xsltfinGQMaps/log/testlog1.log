@@ -1,0 +1,60 @@
+2015-10-12 15:46:23,780 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 15:46:23,970 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 15:46:24,679 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 15:46:25,002 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 15:47:44,359 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 15:47:44,557 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 15:47:45,492 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 15:47:45,624 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:14:32,915 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:14:33,065 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:14:33,127 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:14:33,224 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:15:17,228 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:15:17,378 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:15:17,913 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:15:18,011 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:18:51,952 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:18:52,078 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:18:52,672 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:18:52,826 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:22:16,176 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:22:16,280 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:22:16,343 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:22:16,435 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:23:40,087 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:23:40,203 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:23:40,271 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:23:40,361 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:24:55,457 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:24:55,570 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:24:55,641 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:24:55,733 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-12 16:52:15,003 [main] INFO GQM_2 - launching GQMaps
+2015-10-12 16:52:15,270 [main] INFO GQM_2 - username web element is present-passed
+2015-10-12 16:52:15,353 [main] INFO GQM_2 - password web element is present-passed
+2015-10-12 16:52:15,470 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-16 11:09:04,673 [main] INFO GQM_1 - launching GQMaps
+2015-10-16 11:09:48,391 [main] INFO GQM_1 - username web element is present
+2015-10-16 11:09:48,438 [main] INFO GQM_1 - password webelement is present
+2015-10-16 11:10:42,681 [main] INFO GQM_1 - launching GQMaps
+2015-10-16 11:11:01,546 [main] INFO GQM_1 - username web element is present
+2015-10-16 11:11:01,596 [main] INFO GQM_1 - password webelement is present
+2015-10-16 11:20:58,868 [main] INFO GQM_1 - launching GQMaps
+2015-10-16 11:21:13,356 [main] INFO GQM_1 - username web element is present
+2015-10-16 11:21:13,406 [main] INFO GQM_1 - password webelement is present
+2015-10-16 11:21:30,187 [main] INFO GQM_2 - launching GQMaps
+2015-10-16 11:21:30,300 [main] INFO GQM_2 - username web element is present-passed
+2015-10-16 11:21:30,368 [main] INFO GQM_2 - password web element is present-passed
+2015-10-16 11:21:30,459 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-16 11:23:12,507 [main] INFO GQM_1 - launching GQMaps
+2015-10-16 11:23:18,414 [main] INFO GQM_1 - username web element is present
+2015-10-16 11:23:18,454 [main] INFO GQM_1 - password webelement is present
+2015-10-16 11:23:35,177 [main] INFO GQM_2 - launching GQMaps
+2015-10-16 11:23:35,290 [main] INFO GQM_2 - username web element is present-passed
+2015-10-16 11:23:35,364 [main] INFO GQM_2 - password web element is present-passed
+2015-10-16 11:23:35,461 [main] ERROR GQM_2 - monitoring web element is not present
+2015-10-16 11:23:54,297 [main] ERROR GQM_2 - asset_id web element is not present
+2015-10-27 17:45:02,738 [main] INFO GQM_1 - launching GQMaps
+2015-10-27 17:45:45,073 [main] INFO GQM_1 - username webelment is not present
+2015-10-27 17:45:45,092 [main] INFO GQM_1 - password webelement is not present
