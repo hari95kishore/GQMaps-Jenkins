@@ -3,7 +3,7 @@
 <test name="run_suite">
 <classes>
 <class name="finGQMaps.GQM_1"/>
-<class name="finGQMaps.GQM_2"/>
+<class name="finGQMaps.GQM_3"/>
 </classes>
 </test>
 </suite>
